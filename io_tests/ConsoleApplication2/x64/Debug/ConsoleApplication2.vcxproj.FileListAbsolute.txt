@@ -1,0 +1,2 @@
+C:\dev\cpp\temp\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe
+C:\dev\cpp\io_tests\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe
